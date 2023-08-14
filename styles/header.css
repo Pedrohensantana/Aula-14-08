@@ -1,0 +1,29 @@
+.img-movimento{
+    width: 600px;
+    border: 100px solid black;
+
+    
+}
+.gif-title{
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+    text-decoration: underline;
+
+
+}
+
+.container{
+    text-align: center;
+    border: 50px groove rgb(248, 186, 15);
+
+}
+
+.container2{
+    text-align: center;
+    border: 50px groove bl, green, blue);
+}
+.img-movimento{
+    width: 600px;
+    border:50px groove rgb(190, 34, 170);
+}
